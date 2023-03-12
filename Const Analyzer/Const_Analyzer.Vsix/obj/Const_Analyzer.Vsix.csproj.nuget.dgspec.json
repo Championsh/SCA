@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.Vsix\\Const_Analyzer.Vsix.csproj": {}
+  },
+  "projects": {
+    "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.CodeFixes\\Const_Analyzer.CodeFixes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.CodeFixes\\Const_Analyzer.CodeFixes.csproj",
+        "projectName": "Const_Analyzer.CodeFixes",
+        "projectPath": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.CodeFixes\\Const_Analyzer.CodeFixes.csproj",
+        "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+        "outputPath": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.CodeFixes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.csproj": {
+                "projectPath": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.Vsix\\Const_Analyzer.Vsix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.Vsix\\Const_Analyzer.Vsix.csproj",
+        "projectName": "Const_Analyzer.Vsix",
+        "projectPath": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.Vsix\\Const_Analyzer.Vsix.csproj",
+        "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+        "outputPath": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.Vsix\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.CodeFixes\\Const_Analyzer.CodeFixes.csproj": {
+                "projectPath": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.CodeFixes\\Const_Analyzer.CodeFixes.csproj"
+              },
+              "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.csproj": {
+                "projectPath": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[16.8.3038, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.csproj",
+        "projectName": "*Const_Analyzer.csproj*",
+        "projectPath": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer.csproj",
+        "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+        "outputPath": "D:\\Static code Analyses\\Const_Analyzer\\Const_Analyzer\\Const_Analyzer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
