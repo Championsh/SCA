@@ -1,0 +1,12 @@
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\bin\Debug\netstandard2.0\Const_Analyzer.deps.json
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\bin\Debug\netstandard2.0\Const_Analyzer.dll
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\bin\Debug\netstandard2.0\Const_Analyzer.pdb
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\obj\Debug\netstandard2.0\Const_Analyzer.csproj.AssemblyReference.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\obj\Debug\netstandard2.0\Const_Analyzer.Resources.resources
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\obj\Debug\netstandard2.0\Const_Analyzer.csproj.GenerateResource.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\obj\Debug\netstandard2.0\Const_Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\obj\Debug\netstandard2.0\Const_Analyzer.AssemblyInfoInputs.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\obj\Debug\netstandard2.0\Const_Analyzer.AssemblyInfo.cs
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\obj\Debug\netstandard2.0\Const_Analyzer.csproj.CoreCompileInputs.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\obj\Debug\netstandard2.0\Const_Analyzer.dll
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer\obj\Debug\netstandard2.0\Const_Analyzer.pdb

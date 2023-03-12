@@ -1,0 +1,15 @@
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\bin\Debug\netstandard2.0\Const_Analyzer.CodeFixes.deps.json
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\bin\Debug\netstandard2.0\Const_Analyzer.CodeFixes.dll
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\bin\Debug\netstandard2.0\Const_Analyzer.CodeFixes.pdb
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\bin\Debug\netstandard2.0\Const_Analyzer.dll
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\bin\Debug\netstandard2.0\Const_Analyzer.pdb
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixes.csproj.AssemblyReference.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixResources.resources
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixes.csproj.GenerateResource.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixes.AssemblyInfoInputs.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixes.AssemblyInfo.cs
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixes.csproj.CoreCompileInputs.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixes.csproj.CopyComplete
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixes.dll
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\obj\Debug\netstandard2.0\Const_Analyzer.CodeFixes.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Const_Analyzer
+build_property.ProjectDir = D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.CodeFixes\

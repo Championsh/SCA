@@ -1,0 +1,17 @@
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\bin\Debug\netstandard2.0\tools\install.ps1
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\bin\Debug\netstandard2.0\Const_Analyzer.Package.deps.json
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\bin\Debug\netstandard2.0\Const_Analyzer.Package.dll
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\bin\Debug\netstandard2.0\Const_Analyzer.Package.pdb
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\bin\Debug\netstandard2.0\Const_Analyzer.CodeFixes.dll
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\bin\Debug\netstandard2.0\Const_Analyzer.dll
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\bin\Debug\netstandard2.0\Const_Analyzer.CodeFixes.pdb
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\bin\Debug\netstandard2.0\Const_Analyzer.pdb
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\obj\Debug\netstandard2.0\Const_Analyzer.Package.csproj.AssemblyReference.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\obj\Debug\netstandard2.0\Const_Analyzer.Package.GeneratedMSBuildEditorConfig.editorconfig
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\obj\Debug\netstandard2.0\Const_Analyzer.Package.AssemblyInfoInputs.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\obj\Debug\netstandard2.0\Const_Analyzer.Package.AssemblyInfo.cs
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\obj\Debug\netstandard2.0\Const_Analyzer.Package.csproj.CoreCompileInputs.cache
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\obj\Debug\netstandard2.0\Const_Analyzer.Package.csproj.CopyComplete
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\obj\Debug\netstandard2.0\Const_Analyzer.Package.dll
+D:\Static code Analyses\Const_Analyzer\Const_Analyzer\Const_Analyzer.Package\obj\Debug\netstandard2.0\Const_Analyzer.Package.pdb
