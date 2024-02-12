@@ -1,6 +1,7 @@
 **Static Code Analysis**
 
 **Division Analyzer**
+
 In this project **Roslyn-Based** **Zero Denominator Detector** was created.
 
 The analyzer detects Following Fraction Patterns:
